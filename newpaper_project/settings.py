@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'pages.apps.PagesConfig',
     #third party
     'crispy_forms',
+    'anymail'
 ]
 
 MIDDLEWARE = [
